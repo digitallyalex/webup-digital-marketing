@@ -31,7 +31,41 @@ Users can navigate to the different sections of the site by clicking on the link
 Here, we can see the different sections of the site (without the footer), which go into more depth about the topics presented in the navigation bar. On the right hand side, users can see some of the benefits of working with the agency.
 
 ## Credits
-N/A
+Overall instruction and provision of necessary materials for this project from the EdX Front-End Web Development Bootcamp instructor and teaching assistants (Oct2023 Cohort).
+
+Helpful resources I used for this project:
+
+- For introducing Semantic HTML: https://www.semrush.com/blog/semantic-html5-guide/ and https://www.w3schools.com/html/html5_semantic_elements.asp 
+- For fixing the broken anchor link: https://blog.hubspot.com/marketing/jump-link-same-page
+- For deploying the live site: https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site 
+- For overall accessibility principles: https://developer.semrush.com/intergalactic/core-principles/a11y/a11y-general/
+- For the README file: https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+- Badges at the bottom of this README file were listed with the help of the following repository: https://github.com/Ileriayo/markdown-badges 
+
 
 ## License
-MIT License, please refer to LICENSE.md in the repo for the complete information.
+MIT License
+
+Copyright (c) 2023 Alexandra Asanache
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+## Badges
+![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
