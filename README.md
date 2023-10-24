@@ -24,10 +24,10 @@ N/A
 
 ## Usage
 
-![Image of header and navigation bar of the site](screenshot1.png)
+![Image of header and navigation bar of the site](screenshotOne.png)
 Users can navigate to the different sections of the site by clicking on the links in the navigation bar.
 
-![Image of the different sections of the site](screenshot2.png)
+![Image of the different sections of the site](screenshotTwo.png)
 Here, we can see the different sections of the site (without the footer), which go into more depth about the topics presented in the navigation bar. On the right hand side, users can see some of the benefits of working with the agency.
 
 ## Credits
